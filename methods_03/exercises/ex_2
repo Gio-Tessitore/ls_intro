@@ -1,0 +1,5 @@
+1. x is assigned the value of 2- prints 2
+2. prints 2. Returns nil
+3. Prints Joe. Returns Joe
+4. Variable four is assigned the value "four"
+5. prints "nothing". returns nil 

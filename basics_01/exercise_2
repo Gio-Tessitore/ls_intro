@@ -1,0 +1,9 @@
+#the exercise wants to show the difference between Integers #and Floats. 
+#In case of a random number ( for example 6743), if we 
+#represent it as an integer in the irb and write 
+#6743 / 1000 the system will not show the decimal numbers and
+#it will just give us 6 as answer.
+#For finding the number 7, 6743 % 1000 / 100, as 743 is the 
+#reminder of 6743 devided by 1000 and 7 is what is left by deviding 743 by 100.
+# so on, for the digit 4, 6743 % 1000 % 100 / 10
+#and for the digit 3, 6743 % 1000 % 100 % 10

@@ -1,0 +1,36 @@
+# using case/when statements
+
+def choose_number()
+
+  puts "please choose a number"
+    number = gets.chomp.to_i
+
+    case 
+      when number <= 50 
+      puts "Your number is too small!"
+
+    when number > 50 && number <= 100
+      puts "your number is perfect"
+
+    when number > 100
+      puts "Your number is too high"
+
+    end
+
+  if (number <= 50 || number > 100)
+    puts "Would you like to choose another number? (answer 'yes' or 'no')"
+
+    answer = gets.chomp
+
+    if answer == "yes"
+      choose_number()
+
+    else
+      puts "ok goodbye!"
+
+    end
+
+  end
+end
+
+choose_number()

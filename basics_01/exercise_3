@@ -1,0 +1,13 @@
+
+ movies = { :goldfinger => '1964',
+            :love_story => '1970',
+            :spider_man_2 => '2004',
+            :bad_boys => '1983',} 
+
+
+  puts movies[:goldfinger] 
+  puts movies[:love_story] 
+  puts movies[:spider_man_2] 
+  puts movies[:bad_boys] 
+   
+  

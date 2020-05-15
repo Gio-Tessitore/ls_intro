@@ -1,0 +1,1 @@
+puts "see exercise 12b - personal variant"

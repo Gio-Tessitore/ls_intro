@@ -1,0 +1,18 @@
+#case statement refactored
+
+a = 5
+
+answer = case a
+
+when 5 
+  "a is equal to 5"
+
+when 6
+  "a is equal to 6"
+
+else
+  "ais neither 5, nor 6"    
+
+end
+
+puts answer

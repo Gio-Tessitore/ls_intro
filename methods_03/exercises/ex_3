@@ -1,0 +1,9 @@
+def multiply(x, y)
+return x * y
+end
+
+puts "type first number"
+num_one = gets.chomp.to_i
+puts "type second number"
+num_two = gets.chomp.to_i
+puts "The product of #{num_one} and #{num_two} is equal to: #{multiply(num_one, num_two)}"

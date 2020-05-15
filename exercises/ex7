@@ -1,0 +1,1 @@
+The array is an ordered list of elements. The array starts from index 0. The hash is a list of elements which have keys as indexes. Keys are defined by the programmer and they can be of any type: string, number, symbol, an array or another hash, integer. 

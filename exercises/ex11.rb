@@ -1,0 +1,3 @@
+print " At the moment it is much easier for me to view the standard Ruby libraries. Rails is more advanced and I need more knowledge 
+before getting there. I like the fact that, when I go looking for classes in the Ruby guide, I can read an overview on what that class actually 
+is used for and what the correct grammar is. For now I put my trust in the official Ruby online documewntation. I do not have enough experience for evaluating alternative sources. "

@@ -1,0 +1,13 @@
+puts "Type your message"
+
+message = gets.chomp
+
+if message.length > 10
+
+  puts message.upcase
+
+else
+
+puts "Thanks for your message"
+
+end
